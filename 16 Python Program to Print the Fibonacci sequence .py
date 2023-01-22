@@ -14,7 +14,7 @@
 # fib(n)
 def fibonacci(n):
     a=0
-    b=1
+    b=1 
     if a==1:
         print(a)
         print(b)

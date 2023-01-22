@@ -1,0 +1,49 @@
+
+var ftGUID_4167863="54842B36ED1F04";
+var ftConfID_4167863="0";
+var ftParams_4167863="ftOBA=1&ft_domain=2fbcd4c2ebebacb700a31a6937e974f2.safeframe.googlesyndication.com&ft_ifb=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2F2fbcd4c2ebebacb700a31a6937e974f2.safeframe.googlesyndication.com%2F&gdpr=0&us_privacy=${US_PRIVACY}&cachebuster=536521.266535845&ft_dv=%5B%25ft_dv%25%5D";
+var ftKeyword_4167863="";
+var ftCustom_4167863="";
+var ftSection_4167863="";
+var ftSegment_4167863="";
+var ftSegmentList_4167863=[];
+var ftRuleMatch_4167863="0";
+var ftTimestamp_4167863="1674368236";
+var ftGeoC2_4167863="in";
+var ftGeoState_4167863="mh";
+var ftGeoCity_4167863="pune";
+var ftISP_4167863="connectspacelink infomedia pvt ltd";
+var ftSpeed_4167863="broadband";
+var ftConnType_4167863="wifi";
+var ftDMA_4167863="356005";
+var ftLong_4167863="73.86";
+var ftLat_4167863="18.45";
+var ftPostal_4167863="411046";
+var ftTimeZone_4167863="530";
+var ftMobileCarrier_4167863="";
+var ftImp4167863 = {};
+ftImp4167863.privacy = "x";
+ftImp4167863.guidAge = "16";
+ftImp4167863.impID = "D974C587-C77A-52E2-BEE2-4277DAF73574";
+ftImp4167863.duid = "FT:54842B36ED1F04";
+
+ftImp4167863.ft_tpplid = "";
+ftImp4167863.ft_c = {};
+ftImp4167863.gdpr = "0";
+ftImp4167863.gdpr_consent = "";
+ftImp4167863.gdpr_pd = "";
+ftImp4167863.oob_consent = "";
+ftImp4167863.gdprStoredConsent = "";
+ftImp4167863.us_privacy = "!!US_PRIVACY!";
+
+ftImp4167863.jsAppend = "1";
+(function(){
+    var tag = document.getElementById('ft_servedby_4167863') || (function(s){
+    	return s[s.length-1];
+    }(document.getElementsByTagName('script'))),
+           js = document.createElement('script');
+    js.src =
+"https://cdn.flashtalking.com/xre/416/4167863/3873396/js/j-4167863-3873396.js";
+    js.id = "ftscript_m4167863";
+    tag.parentNode.insertBefore(js, tag);
+}());
